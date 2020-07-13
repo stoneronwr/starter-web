@@ -12,4 +12,4 @@ Please don't.
 
 ## Copyright
 
-2020 All Rights Reserved
+2020 Wind River, All Rights Reserved
